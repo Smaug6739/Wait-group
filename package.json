@@ -4,7 +4,8 @@
   "description": "A util package for wait in javascript",
   "main": "dist/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "tsc --build tsconfig.json",
+    "build:typings": "tsc --build tsconfig.typings.json"
   },
   "repository": {
     "type": "git",
