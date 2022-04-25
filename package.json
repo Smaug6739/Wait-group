@@ -1,0 +1,28 @@
+{
+  "name": "wait-group",
+  "version": "1.0.0",
+  "description": "A util package for wait in javascript",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smaug6739/Wait-group.git"
+  },
+  "keywords": [
+    "wait",
+    "async",
+    "time",
+    "promiser"
+  ],
+  "author": "Smaug6739",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Smaug6739/Wait-group/issues"
+  },
+  "homepage": "https://github.com/Smaug6739/Wait-group#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.0"
+  }
+}
