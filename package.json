@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A util package for wait in javascript",
   "main": "dist/index.js",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Smaug6739"
+  },
   "scripts": {
     "build": "tsc --build tsconfig.json",
     "build:typings": "tsc --build tsconfig.typings.json"
