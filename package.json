@@ -1,5 +1,5 @@
 {
-  "name": "wait-group",
+  "name": "@smaug6739/wait-group",
   "version": "1.0.0",
   "description": "A util package for wait in javascript",
   "main": "dist/index.js",
